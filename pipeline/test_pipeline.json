@@ -28,6 +28,7 @@
 						"formatSettings": {
 							"type": "DelimitedTextWriteSettings",
 							"maxRowsPerFile": 1000,
+							"fileNamePrefix": "customer_*",
 							"quoteAllText": true,
 							"fileExtension": ".csv"
 						}
