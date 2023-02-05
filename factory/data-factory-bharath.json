@@ -1,0 +1,9 @@
+{
+	"name": "data-factory-bharath",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fe1b8cea-5012-4f70-aa6d-a34814bdd56c",
+		"tenantId": "c272fe59-d040-44ef-a669-eeaf26b149fe"
+	}
+}
