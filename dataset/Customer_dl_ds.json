@@ -1,5 +1,5 @@
 {
-	"name": "DelimitedText1",
+	"name": "Customer_dl_ds",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "datalake_ls",
